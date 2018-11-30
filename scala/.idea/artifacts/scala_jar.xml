@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact name="scala:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/scala_jar</output-path>
+    <root id="root">
+      <element id="archive" name="scala.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="G:/MyTomcatLog/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="scala" />
+      </element>
+      <element id="library" level="application" name="scala-sdk-2.11.81" />
+      <element id="library" level="project" name="scala-sdk-2.11.8" />
+    </root>
+  </artifact>
+</component>

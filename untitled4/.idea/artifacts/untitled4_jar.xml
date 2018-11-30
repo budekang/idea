@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="untitled4:jar">
+    <output-path>G:/workjar</output-path>
+    <root id="root">
+      <element id="archive" name="untitled4.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="G:/workjar/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="untitled4" />
+      </element>
+      <element id="library" level="project" name="scala-sdk-2.11.8" />
+    </root>
+  </artifact>
+</component>
